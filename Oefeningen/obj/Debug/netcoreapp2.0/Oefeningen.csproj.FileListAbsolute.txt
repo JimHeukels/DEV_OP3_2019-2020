@@ -1,0 +1,11 @@
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.csprojAssemblyReference.cache
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.csproj.CoreCompileInputs.cache
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.AssemblyInfoInputs.cache
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.AssemblyInfo.cs
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\bin\Debug\netcoreapp2.0\Oefeningen.deps.json
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\bin\Debug\netcoreapp2.0\Oefeningen.runtimeconfig.json
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\bin\Debug\netcoreapp2.0\Oefeningen.runtimeconfig.dev.json
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\bin\Debug\netcoreapp2.0\Oefeningen.dll
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\bin\Debug\netcoreapp2.0\Oefeningen.pdb
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.dll
+D:\School\2019-2020\Development\OP3_2019-2020\Oefeningen\obj\Debug\netcoreapp2.0\Oefeningen.pdb

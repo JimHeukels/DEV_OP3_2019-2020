@@ -1,0 +1,11 @@
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.csprojAssemblyReference.cache
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.csproj.CoreCompileInputs.cache
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.AssemblyInfoInputs.cache
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.AssemblyInfo.cs
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\bin\Debug\netcoreapp2.0\FA.deps.json
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\bin\Debug\netcoreapp2.0\FA.runtimeconfig.json
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\bin\Debug\netcoreapp2.0\FA.runtimeconfig.dev.json
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\bin\Debug\netcoreapp2.0\FA.dll
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\bin\Debug\netcoreapp2.0\FA.pdb
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.dll
+D:\School\2019-2020\Development\OP3_2019-2020\CH1\FA\obj\Debug\netcoreapp2.0\FA.pdb
