@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\Oefeningen\\Oefeningen.csproj",
+      "projectUniqueName": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\Oefeningen\\Oefeningen.csproj",
       "projectName": "Oefeningen",
-      "projectPath": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\Oefeningen\\Oefeningen.csproj",
+      "projectPath": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\Oefeningen\\Oefeningen.csproj",
       "packagesPath": "C:\\Users\\jim-laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\Oefeningen\\obj\\",
+      "outputPath": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\Oefeningen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

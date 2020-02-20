@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\CH1\\FA\\FA.csproj",
+      "projectUniqueName": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\CH1\\FA\\FA.csproj",
       "projectName": "FA",
-      "projectPath": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\CH1\\FA\\FA.csproj",
+      "projectPath": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\CH1\\FA\\FA.csproj",
       "packagesPath": "C:\\Users\\jim-laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\2019-2020\\Development\\OP3_2019-2020\\CH1\\FA\\obj\\",
+      "outputPath": "d:\\School\\2019-2020\\Development\\OP3_2019-2020\\DEV_OP3_2019-2020\\CH1\\FA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
